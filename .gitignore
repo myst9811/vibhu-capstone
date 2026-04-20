@@ -67,3 +67,6 @@ models/text_vocab.json
 models/acoustic_importance.json
 models/sentence_encoder/
 reports/
+
+# Superpowers brainstorming companion mockups
+.superpowers/
